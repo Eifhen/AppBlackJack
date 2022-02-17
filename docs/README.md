@@ -6,12 +6,12 @@ Juego de black jack también conocido como 21; creado utilizando JavaScript puro
 ## Instrucciones
 
 Para comenzar un **Nuevo Juego** pulsa el botón rojo "Nuevo Juego",
-luego de hacer esto debemos pulsar el botón azul "Pedir Carta", al hacer esto
+luego debemos pulsar el botón azul "Pedir Carta", al hacer esto
 tomaremos una carta del deck, si queremos tomar otra carta debemos pulsar el botón
-"Pedir Carta" nuevamente cuantas veces queramos.
+"Pedir Carta" nuevamente, cuantas veces queramos.
 
 Una vez satisfechos con las cartas que tenemos, debemos pulsar el botón **Detener**
-al hacer esto comenzara el turno de la computadora y se decidirá un ganador.
+al hacer esto comenzará el turno de la computadora y se decidirá un ganador.
 
 ## Reglas
 
