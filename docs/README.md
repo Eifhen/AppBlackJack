@@ -25,3 +25,6 @@ al hacer esto comenzara el turno de la computadora y se decidirá un ganador.
 
 - Si la suma del valor de tus cartas es inferior a 21 e inferior a la suma del valor 
   de las cartas de la computadora pierdes.
+
+- Si la suma del valor de tus cartas es inferior a 21, pero la suma del valor
+  de las cartas de la computadora es mayor a 21 entonces ganas.
