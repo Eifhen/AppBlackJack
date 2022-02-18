@@ -2,6 +2,7 @@
 # Black Jack
 
 Juego de black jack también conocido como 21; creado utilizando JavaScript puro y **bootstrap 4**
+pudes accede al juego desde el siguiente enlace de github pages: https://eifhen.github.io/AppBlackJack/
 
 ## Instrucciones
 
