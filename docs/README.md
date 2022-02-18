@@ -8,7 +8,7 @@ pudes accede al juego desde el siguiente enlace de github pages: https://eifhen.
 
 Para comenzar un **Nuevo Juego** pulsa el botón rojo "Nuevo Juego",
 luego debemos pulsar el botón azul "Pedir Carta", al hacer esto
-tomaremos una carta del deck, si queremos tomar otra carta debemos   return
+tomaremos una carta del deck, si queremos tomar otra carta debemos
 pulsar el botón "Pedir Carta" nuevamente.
 
 Una vez satisfechos con las cartas que tenemos, debemos pulsar el botón **Detener**
